@@ -1,2 +1,2 @@
-# pq
+# PQ
 Python asynchronous message queue.
