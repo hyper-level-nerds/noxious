@@ -1,2 +1,2 @@
-# PQ
-Python asynchronous message queue.
+# IPC
+Cross-platform interprocess library
